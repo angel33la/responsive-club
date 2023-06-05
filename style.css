@@ -98,6 +98,11 @@ li {
   text-align: center;
 }
 
+footer p{
+  text-align: right;
+  color: yellow;
+}
+
 @media only screen and (max-width: 1200px) {
 
   .photos img {
